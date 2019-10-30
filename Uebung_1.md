@@ -16,7 +16,7 @@
    - Der **Adressbus** legt Adressen an, von der oder in die Daten gelesen oder geschrieben werden.
 6. **SISD (Single Instruction Single Data)** bedeutet, dass die CPU immer nur eine Anweisung gleichzeitig ausführen kann und immer nur einen Operanden gleichzeitig verändern.
 7. Durch das Konzept der universellen Programmierbarkeit lassen sich mit dem Von-Neumann-Rechnermodell Probleme verschiedener Art lösen, sofern für diese ein entsprechendes Programm geschrieben werden kann. Assemblersprachen übernehmen hier die Rolle des "Übersetzers". Sie sind die Schnittstelle für spezialisierte höhere Programmiersprachen und wandeln diese in universellen Maschinencode um.
-8. 
+8. Test
 
 ## Aufgabe 2
 
